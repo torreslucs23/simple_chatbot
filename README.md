@@ -1,6 +1,6 @@
 # Atenas Chatbot
 
-![Atenas Chatbot](https://your-image-url.com/banner.png)
+![Atenas Chatbot](https://i.pinimg.com/originals/3b/e2/f4/3be2f445535301ebc8d739576ce8b36d.gif)
 
 ## Introduction
 
