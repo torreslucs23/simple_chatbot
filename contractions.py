@@ -1,0 +1,22 @@
+contractions = {
+        "what's": "what is",
+        "it's": "it is",
+        "i'm": "i am",
+        "you're": "you are",
+        "we're": "we are",
+        "they're": "they are",
+        "can't": "cannot",
+        "won't": "will not",
+        "don't": "do not",
+        "didn't": "did not",
+        "hasn't": "has not",
+        "isn't": "is not",
+        "aren't": "are not",
+        "wasn't": "was not",
+        "weren't": "were not",
+        "haven't": "have not",
+        "couldn't": "could not",
+        "shouldn't": "should not",
+        "wouldn't": "would not",
+        "doesn't": "does not"
+    }
